@@ -9,9 +9,9 @@
 }
 
 body {
-    background: linear-gradient(to left, #655bd35e, #28a3935d, #328fa050), ;
-    background-repeat: no-repeat;
-    background-position: fixed;
+    background: rgba(49, 197, 153, 0.527);
+    /* background-repeat: no-repeat;
+    background-position: fixed; */
 }
 
 ::selection {
