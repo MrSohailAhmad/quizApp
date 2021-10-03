@@ -9,10 +9,9 @@
 }
 
 body {
-    background: url(./img/How-to-make-quizzes-without-coding-1.jpg);
+    background: linear-gradient(to left, #655bd35e, #28a3935d, #328fa050), ;
     background-repeat: no-repeat;
     background-position: fixed;
-    background-size: 100%;
 }
 
 ::selection {
